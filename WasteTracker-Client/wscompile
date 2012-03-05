@@ -1,0 +1,3 @@
+#!/bin/bash
+
+../jwtk/bin/wscompile -gen -d bin -s src/ ./config.xml

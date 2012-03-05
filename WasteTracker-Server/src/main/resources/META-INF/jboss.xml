@@ -1,0 +1,11 @@
+<jboss>
+	<enterprise-beans>
+		<session>
+			<ejb-name>DataManagerImpl</ejb-name>
+			<port-component>
+				<auth-method>BASIC</auth-method>
+				<secure-wsdl-access>false</secure-wsdl-access>
+			</port-component>
+		</session>
+	</enterprise-beans>
+</jboss>

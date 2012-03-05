@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration
+    xmlns="http://java.sun.com/xml/ns/jax-rpc/ri/config">
+	<wsdl location="http://wastetracker.corecanarias.com:8080/WasteTracker-WasteTrackerServer/WasteTrackerMobileImpl?wsdl" packageName="es.sendit2us.wastetracker.client.blackberry.webservices" /> 
+</configuration> 
